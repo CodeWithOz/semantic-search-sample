@@ -1,3 +1,4 @@
+python-dotenv==1.0.0
 pinecone-client==3.0.0
 pinecone-datasets==0.7.0
 sentence-transformers==2.2.2

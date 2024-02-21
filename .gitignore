@@ -1,1 +1,5 @@
 .venv/
+.env
+src/datasets/quora-bm25-dataset-80k-subset/documents/*.parquet
+src/datasets/quora-bm25-dataset-80k-subset/queries/*.parquet
+__pycache__/
